@@ -1,0 +1,17 @@
+#### Basic Settings
+username: ''
+password: ''
+selected_class_only: true         # only the class designated below will be checked.
+class_name:
+  - '大学物理'
+
+#### Location Settings for checkin
+lat: '32'
+lon: '112'                        # actual location detection use GPS coordinates.
+address: ''                       # only used to show on Mobile app or other places.
+
+#### Other Settings
+client_ip: '8.8.8.8'              # no actual effect.
+
+# image path for photo_checkin
+# currently not supported
